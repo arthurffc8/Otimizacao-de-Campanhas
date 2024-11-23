@@ -24,6 +24,8 @@ Definição de uma nova distribuição de orçamento focada na otimização do d
 Visualizações:
 Criação de gráficos e dashboards interativos para facilitar a compreensão dos insights e das estratégias propostas.
 # Resultados Esperados
+
+
 Redução do CPA sem comprometer a eficiência das campanhas.
 Alocação mais estratégica do orçamento entre as plataformas.
 Melhor entendimento sobre o comportamento das campanhas em diferentes plataformas.

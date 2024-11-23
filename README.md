@@ -17,17 +17,8 @@ Para resolver essa questão, a empresa disponibilizou uma base de dados do últi
 Analisar as campanhas e desenvolver um plano de otimização que reduza o CPA, mantendo ou melhorando a performance geral.
 # KPI Principal
 CPA (Custo por Aquisição): métrica central que será monitorada e utilizada para avaliar o sucesso das estratégias propostas.
-# Abordagem Utilizada
-Análise Exploratório dos Dados (EDA):
-Exploração da base de dados fornecida para identificar padrões e tendências no desempenho das campanhas.
-Segmentação e Priorização:
-Avaliação das plataformas e campanhas que apresentam melhor ROI e menor CPA.
-Recomendações Estratégicas:
-Definição de uma nova distribuição de orçamento focada na otimização do desempenho por plataforma.
-Visualizações:
-Criação de gráficos e dashboards interativos para facilitar a compreensão dos insights e das estratégias propostas.
-# Resultados Esperados
 
+# Resultados Esperados
 
 Redução do CPA sem comprometer a eficiência das campanhas.
 Alocação mais estratégica do orçamento entre as plataformas.

@@ -4,6 +4,9 @@
 
 </div>
 
+## **Apresentação PowerPoint**
+Clique [aqui](https://sites.google.com/view/arthurferreira/projetos/storytelling-otimiza%C3%A7%C3%A3o-de-campanhas) para acessar o projeto!
+
  
 # Descrição do Case
 A Social Wave, uma empresa atuante no mercado de marketing digital, busca maximizar o retorno sobre seus investimentos em anúncios nas principais plataformas digitais. Recentemente, após aumentar o orçamento das campanhas e dividir o montante de forma igualitária entre as plataformas, observou-se um aumento significativo no CPA (Custo por Aquisição).
